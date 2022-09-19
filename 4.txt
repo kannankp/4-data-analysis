@@ -1,0 +1,12 @@
+Ord_id                 0.00
+Prod_id                0.00
+Ship_id                0.00
+Cust_id                0.00
+Sales                  0.24
+Discount               0.65
+Order_Quantity         0.65
+Profit                 0.65
+Shipping_Cost          0.65
+Product_Base_Margin    1.30
+dtype: float64
+pythonpython-3.xpandas
